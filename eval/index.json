@@ -1,0 +1,20 @@
+{
+  "id": "marvin.plain-output",
+  "name": "Plain, Simple Output",
+  "version": "0.1.0",
+  "status": "scaffold",
+  "category": "Communication",
+  "standard": "Output is concise, direct, specific, and understandable without private framework jargon.",
+  "test": "Score blinded outputs for target length, directness, unexplained jargon, and actionable next step.",
+  "metric": {
+    "name": "plain_output_pass_rate",
+    "unit": "share of outputs meeting every declared rubric threshold"
+  },
+  "claim_boundary": "A rubric pass does not mean the output is useful for every audience.",
+  "latest_run": null,
+  "provenance": {
+    "creator_adjudication": "not yet recorded",
+    "fixtures": "not yet published",
+    "synthetic_results_must_not_be_presented_as_real": true
+  }
+}
